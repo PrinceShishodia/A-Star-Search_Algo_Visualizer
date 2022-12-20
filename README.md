@@ -1,5 +1,5 @@
 
-# # A* Search Algorithm Visualizer :
+# A* Search Algorithm Visualizer :
 
 1. Developed a highly intuitive and interactive A* search algorithm visualizer using Python, providing users with a real-time visualization of the search process and enabling them to input various parameters to customize their experience.
 2. Leveraged cutting-edge heuristics, including Manhattan distance and Euclidean distance, to optimize the search process and achieve efficient results.
